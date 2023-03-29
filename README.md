@@ -9,6 +9,7 @@
 ## 2023-03-28
 - diff 명령어
 - repository
+- `git init` 명령어로 저장소 만들기
 
 ## 2023-03-29
 - git add
